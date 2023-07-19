@@ -1,9 +1,13 @@
 # python_QR-Code-Generator
-# run: python3 qrCode_bash.py
+-> run: python3 qrCode_bash.py
 
 
-Prompt Interview
+* Prompt Interview
+<div>
 <img src="./cli_prompt.png">
+</div>
 
-QR-Code Output
+* QR-Code Output
+<div>
 <img src="./myFakeWifi.png">
+</div>
